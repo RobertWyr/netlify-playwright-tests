@@ -30,7 +30,7 @@ jobs:
 
       - name: 📤 Upload HTML report (on failure)
         if: failure()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
           name: playwright-report
           path: playwright-report
