@@ -2,6 +2,9 @@
 
 Automated tests for the [Netlify](https://www.netlify.com/) homepage using [Playwright](https://playwright.dev/).
 
+![Playwright Tests](https://github.com/RobertWyr/netlify-playwright-tests/actions/workflows/tests.yml/badge.svg)
+
+
 ## 🚀 Setup Instructions
 
 1. **Clone the repo**
